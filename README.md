@@ -1,6 +1,4 @@
-# CEP MicroService
-
-Este proyecto corresponde al backend del proyecto de medicion QmClient el cual es la evolucion del proyecto CEP Observaciones, con este proyecto intentamos agrupar todos los procesos correspondentes a la aplicacion unicamente de QmClient.
+# Devices MicroService
 
 # Integraciones
 
